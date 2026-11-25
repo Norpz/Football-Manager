@@ -1,3 +1,5 @@
+Tehke repo kaustast väljapoole x.txt nimeline tühi fail, muidu asjad ei tööta nagu peaks
+
 = Robot basketball manager
 :source-highlighter: highlightjs
 
